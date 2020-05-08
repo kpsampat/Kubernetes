@@ -179,7 +179,7 @@ service/kubernetes   ClusterIP   10.96.0.1        <none>        443/TCP         
   # Scale statefulset named 'web' to 3.
   kubectl scale --replicas=3 statefulset/web
 
-![Image description](https://drive.google.com/file/d/1z_CLD2qb94hpQcs9WGDMip2s9Axv9vYd/view?usp=sharing)
+![Image description](https://drive.google.com/file/d/1BeAtFqwGTLCJMKKmYkgCntBLCIWCSoSM/view?usp=sharing)
 
 
 
